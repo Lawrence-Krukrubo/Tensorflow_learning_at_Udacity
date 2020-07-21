@@ -27,7 +27,7 @@
 <p>
   To follow along with these exercises, kindly install and import the following libraries:
   <ol>
-    `<li>import tensorflow as tf</li>`
+    <li>`import tensorflow as tf`</li>
     <li>`import numpy as np`</li>
     <li>`import matplotlib.pyplot as plt`</li>
     <li>`import pandas as pd`</li>
